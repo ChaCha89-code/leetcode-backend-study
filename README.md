@@ -26,19 +26,8 @@ To become a **job-ready backend developer** by solving real-world coding problem
 | 8    | Mock Interviews & Review                  | ☐      |
 
 ---
-
 ## 📁 Structure
 
-leetcode-backend-study\
-├── Week01_Arrays_Strings\
-│ ├── TwoSum.java\
-│ ├── GroupAnagrams.java\
-├── Week02_SlidingWindow\
-│ ├── BestTimeToBuyStock.java\
-├── sql\
-│ ├── TopCustomers.sql\
-│ ├── EmployeeBonus.sql\
-└── README.md\
 
 ---
 
